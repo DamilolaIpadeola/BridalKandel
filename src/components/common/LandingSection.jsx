@@ -23,14 +23,14 @@ class LandingSection extends Component {
             <svg className="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" /></svg>
           </button>
         </div>
-        <div className="pt-4 lg:hidden">
+        <div className="pt-4 lg:hidden font-bold text-lg text-red-500">
           <Link to="/" className="flex-initial">
             DAMMY'S CLOSET
           </Link>
         </div>
 
         <div className="flex items-center pt-6">
-          <Link to="/" className="flex-initial hidden lg:block font-bold text-lg text-red-500">
+          <Link to="/" className="flex-initial hidden lg:block font-bold text-xl text-red-500">
           DAMMY'S CLOSET
           </Link>
           {this.state.isHamburgerClick ?

@@ -93,7 +93,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/gown.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/gown.jpg" alt="logo" />
               </div>
               <div className="flex justify-between">
                 <div className="flex-initial text-blue-500 font-bold text-center  text-white rounded">
@@ -106,7 +106,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Rosy Gown</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <button>
                     <i class="fa fa-heart" aria-hidden="true"></i>
@@ -140,7 +140,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/gown2.png" alt="logo" />
+                <img className="rounded m-auto" src="/assets/gown2.png" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -154,7 +154,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Round Neck</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4 ">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -183,7 +183,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/gown3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/gown3.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -197,7 +197,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">Black Jacket</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -226,7 +226,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/gown3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/gown.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between">
@@ -239,7 +239,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Hoodie</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -273,7 +273,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/shirt1.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/shirt1.jpg" alt="logo" />
               </div>
               <div className="flex justify-between">
                 <div className="flex-initial text-blue-500 font-bold text-center  text-white rounded">
@@ -286,7 +286,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Rosy Gown</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <button>
                     <i class="fa fa-heart" aria-hidden="true"></i>
@@ -320,7 +320,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/shirt3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/shirt3.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -334,7 +334,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Round Neck</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -363,7 +363,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/shirt2.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/shirt2.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -377,7 +377,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">Black Jacket</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -406,7 +406,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/shirt4.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/shirt4.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between">
@@ -419,7 +419,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Hoodie</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -453,7 +453,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/trouser.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/trouser.jpg" alt="logo" />
               </div>
               <div className="flex justify-between">
                 <div className="flex-initial text-blue-500 font-bold text-center  text-white rounded">
@@ -466,7 +466,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Rosy Gown</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <button>
                     <i class="fa fa-heart" aria-hidden="true"></i>
@@ -500,7 +500,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/trouser2.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/trouser2.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -514,7 +514,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Round Neck</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -543,7 +543,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/trouser3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/trouser3.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -557,7 +557,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">Black Jacket</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -586,7 +586,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/trouser4.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/trouser4.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between">
@@ -599,7 +599,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Hoodie</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -633,7 +633,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/jacket.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/jacket.jpg" alt="logo" />
               </div>
               <div className="flex justify-between">
                 <div className="flex-initial text-blue-500 font-bold text-center  text-white rounded">
@@ -646,7 +646,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Rosy Gown</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <button>
                     <i class="fa fa-heart" aria-hidden="true"></i>
@@ -680,7 +680,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/jacket1.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/jacket1.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -694,7 +694,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Round Neck</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -723,7 +723,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/jacket3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/jacket3.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -737,7 +737,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">Black Jacket</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -766,7 +766,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/jacket3.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/jacket3.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between">
@@ -779,7 +779,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Hoodie</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -813,7 +813,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/hat.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/hat.jpg" alt="logo" />
               </div>
               <div className="flex justify-between">
                 <div className="flex-initial text-blue-500 font-bold text-center  text-white rounded">
@@ -826,7 +826,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Rosy Gown</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <button>
                     <i class="fa fa-heart" aria-hidden="true"></i>
@@ -860,7 +860,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/hat1.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/hat1.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -874,7 +874,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Round Neck</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -903,7 +903,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/hat2.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/hat2.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between  ">
@@ -917,7 +917,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">Black Jacket</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -946,7 +946,7 @@ class Packages extends Component {
                 </div>
               </div>
               <div className="border-b">
-                <img className="rounded" src="/assets/hat1.jpg" alt="logo" />
+                <img className="rounded m-auto" src="/assets/hat1.jpg" alt="logo" />
               </div>
 
               <div className="flex justify-between">
@@ -959,7 +959,7 @@ class Packages extends Component {
               </div>
               <div className="font-bold">White Hoodie</div>
               <div>Condition: <span classname="font-bold">New</span></div>
-              <div className="flex  ">
+              <div className="flex mt-4">
                 <div className="flex-initial border py-1 px-2 bg-gray-200 mr-4 text-center rounded">
                   <i class="fa fa-heart" aria-hidden="true"></i>
                 </div>
@@ -1005,7 +1005,7 @@ class Packages extends Component {
               <div className="flex">
                 <div className="flex-1 w-full">
                   <h1 classname="text-black font-bold">White Rosy Gown </h1>
-                  <img className="rounded h-48 w-48" src="/assets/gown.jpg" alt="logo" />
+                  <img className="rounded m-auto h-48 w-48" src="/assets/gown.jpg" alt="logo" />
                 </div>
 
                 <div className="flex-1 w-full">
